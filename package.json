@@ -2,16 +2,22 @@
   "name": "expressjs",
   "version": "1.0.0",
   "description": "Curso express.js",
-  "keywords": ["express.js", "node.js", "javascript"],
+  "keywords": [
+    "express.js",
+    "node.js",
+    "javascript"
+  ],
   "license": "MIT",
   "author": "Esteban Stapic <estebanst.dev@hotmail.com>",
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "dotenv": "^16.5.0",
     "express": "^5.1.0"
-  },
-  "devDependencies": {}
+  }
 }

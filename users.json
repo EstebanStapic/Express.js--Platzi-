@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Julian",
+    "email": "Julian@platzi.dev"
+  },
+  {
+    "id": 2,
+    "name": "Esteban",
+    "email": "es@platzi.dev"
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "email": "john@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Juana",
+    "email": "Juana.s@example.com"
+  }
+]
